@@ -12,7 +12,7 @@ edit `strategies/top50.js` or create your own strategy and call it via the `-s` 
 
 ## Install
 ```
-git clone git@github.com:johntitus/coinsimulator.git
+git clone git@github.com:luckymurari/coinsimulator.git
 cd coinsimulator
 npm install
 ```
